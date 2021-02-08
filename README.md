@@ -4,6 +4,8 @@ This is a module for the [MagicMirror²](https://github.com/MichMich/MagicMirror
 
 Shows a random quote from https://stoicquotesapi.com/ once a day.
 
+![image info](./img/demo.jpg)
+
 ## Using the module
 
 Clone this repo into ~/MagicMirror/modules directory. 
